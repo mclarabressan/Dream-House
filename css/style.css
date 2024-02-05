@@ -1,0 +1,13 @@
+@charset "UTF-8"
+
+:root {
+  --bs-green: #2F6442;
+  --bs-font-title: Merriweather;
+  --bs-font-body: Lato;
+}
+
+
+#mainNav {
+    background-color: #2F6442;
+    font-family: var(--bs-font-title);
+}
